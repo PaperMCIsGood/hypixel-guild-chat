@@ -20,7 +20,7 @@ You'll need to specify four environment variables in order to get your bot up an
 ### 3. Set prefix and emojis
 You can edit the `constants.py` file to change the bot's prefix, and the emojis it uses.
 ```python
-# The prefix the bot responds to for commands
+# The prefix the bot responds to for command
 PREFIX = '!'
 # Emojis the bot should use for certain events
 EMOJIS = {
